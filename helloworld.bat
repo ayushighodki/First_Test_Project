@@ -1,3 +1,3 @@
 @echo off
-echo "Hello World!! Its me ayushii!!!"
+echo "Hello World!! Its me ayushiii!!!"
 pause
